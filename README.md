@@ -1,6 +1,9 @@
 # Diabetes_prediction_ML_Pyspark
 
 ## Introduction
+
+![image](https://user-images.githubusercontent.com/47351536/217939130-f04a9b65-9d65-4d8d-b33b-545df7375c1e.png)
+
 ### What is Diabetes? Why is it important to know about it?
 
 Diabetes is a chronic health condition in which the body is unable to properly regulate blood sugar levels. There are two main types of diabetes: type 1 and type 2.
